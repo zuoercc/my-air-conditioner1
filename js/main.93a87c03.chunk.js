@@ -280,7 +280,7 @@
             var me = r(15),
                 ge = r(146),
                 fe = r(141),
-                xe = r.p + "images/logo.svg",
+                xe = r.p + "../images/logo.svg",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
